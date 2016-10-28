@@ -53,7 +53,7 @@ public class FhirServerConfig extends BaseJavaConfigDstu2 {
 		//retVal.setUrl("jdbc:derby:directory:target/jpaserver_derby_files;create=true");
                 retVal.setUrl("jdbc:mysql://localhost/fhir_dstu2?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC");
 		retVal.setUsername("root");
-		retVal.setPassword("gim2016");
+		retVal.setPassword("");
 		return retVal;
 	}
 
