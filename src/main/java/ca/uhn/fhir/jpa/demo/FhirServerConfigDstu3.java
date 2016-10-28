@@ -58,7 +58,7 @@ public class FhirServerConfigDstu3 extends BaseJavaConfigDstu3 {
 		retVal.setDriverClassName("com.mysql.jdbc.Driver");
 		retVal.setUrl("jdbc:mysql://localhost/fhir_dstu2?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC");
 		retVal.setUsername("root");
-		retVal.setPassword("gim2016");
+		retVal.setPassword("");
 		return retVal;
 	}
 
