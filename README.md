@@ -15,10 +15,10 @@ public DataSource dataSource() {
 
 Edit the MySQL drivers in the pom.xml file if you have different version of MySQL, e.g.:
 
-< dependency>
-  < groupId>mysql</groupId >
-  < artifactId>mysql-connector-java</artifactId >
-  < version>6.0.6</version >
-</dependency >
+< dependency >
+  < groupId > mysql </ groupId >
+  < artifactId > mysql-connector-java </ artifactId >
+  < version > 6.0.6 </ version >
+</ dependency >
 
 Browse your FHIR API server via http://localhost:8080/hapi-fhir-jpaserver/
