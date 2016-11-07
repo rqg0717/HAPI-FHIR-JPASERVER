@@ -1,4 +1,7 @@
 # HAPI-FHIR-JPASERVER
+
+There is a complete sample work based on a GitHub repo here: [hapi-fhir-jpaserver-example](https://github.com/jamesagnew/hapi-fhir/tree/master/hapi-fhir-jpaserver-example)
+
 HAPI FHIR server running on Tomcat using MySQL database
 
 Edit MySQL configuration for your project in FhirServerConfig.java, e.g.:
@@ -22,3 +25,4 @@ Edit the MySQL drivers in the pom.xml file if you have different version of MySQ
 </ dependency >
 
 Browse your FHIR API server via http://localhost:8080/hapi-fhir-jpaserver/
+
