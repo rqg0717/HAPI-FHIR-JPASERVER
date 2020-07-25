@@ -1,5 +1,7 @@
 # HAPI-FHIR-JPASERVER
 
+![](https://img.shields.io/badge/status-out%20of%20date-red)
+
 There is a complete sample work based on a GitHub repo here: [hapi-fhir-jpaserver-example](https://github.com/jamesagnew/hapi-fhir/tree/master/hapi-fhir-jpaserver-example)
 
 HAPI FHIR server running on Tomcat using MySQL database
