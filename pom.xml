@@ -110,7 +110,7 @@
 		<dependency>
 		    <groupId>mysql</groupId>
 		    <artifactId>mysql-connector-java</artifactId>
-		    <version>6.0.5</version>
+		    <version>8.0.28</version>
 		</dependency>
 		
 		<!-- The following dependencies are only needed for automated unit tests, you do not neccesarily need them to run the example. -->
